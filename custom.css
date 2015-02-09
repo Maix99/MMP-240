@@ -6,3 +6,7 @@ div {
 .container-fluid, .container, .row{
     background: #525252;
 }
+
+p{
+    color:white;
+}
