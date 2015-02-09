@@ -1,0 +1,35 @@
+body {
+    background: #088da5;
+}
+
+div {
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    background: #cde8ed;
+    text-align: center;
+}
+
+.container-fluid,
+.container,
+.row {
+    background: #088da5;
+}
+
+p {
+    color: white;
+}
+
+p.cursive {
+    font-family: 'Bad Script', cursive;
+    color: #045463;
+    letter-spacing: .3em;
+    font-style: bold;
+}
+
+#header {
+    font-family: 'Permanent Marker', cursive;
+    text-shadow: 4px 4px 4px #aaa;
+    letter-spacing: .2em;
+    font-size: 3.5em;
+    font-style: bold;
+    background: #E9F5F7;
+}
