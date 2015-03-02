@@ -15,7 +15,11 @@ div {
 }
 
 p {
-    color: white;
+    color: black;
+}
+
+.lead{
+    padding:20px;
 }
 
 p.cursive {
