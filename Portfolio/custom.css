@@ -21,8 +21,8 @@ p {
 }
 
 p.lead{
-    padding:.2em;
-    margin:.2em;
+    padding:.3em;
+    margin:.3em;
     color:black;
 }
 
@@ -40,4 +40,5 @@ p.cursive {
     font-size: 3.5em;
     font-style: bold;
     background: #E9F5F7;
+    margin: .2em;
 }
