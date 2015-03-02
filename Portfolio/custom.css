@@ -18,8 +18,10 @@ p {
     color: black;
 }
 
-.lead{
+p.lead{
     padding:20px;
+    margin:20px;
+    color:black;
 }
 
 p.cursive {
