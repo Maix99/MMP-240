@@ -6,6 +6,7 @@ div {
     border: 1px solid rgba(0, 0, 0, 0.1);
     background: #cde8ed;
     text-align: center;
+    border:transparent;
 }
 
 .container-fluid,
