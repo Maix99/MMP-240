@@ -19,8 +19,8 @@ p {
 }
 
 p.lead{
-    padding:20px;
-    margin:20px;
+    padding:.2em;
+    margin:.2em;
     color:black;
 }
 
