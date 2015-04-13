@@ -1,12 +1,20 @@
 div {
-    border:1px solid rgba(0,0,0,0.1);
+    border: 1px solid rgba(0, 0, 0, 0.1);
     background: #9C9C9C;
-    text-align:center;
-}
-.container-fluid, .container, .row{
-    background: #525252;
+    text-align: center;
 }
 
-p{
-    color:white;
+.container-fluid,
+.container,
+.row {
+    background: #088da5;
+}
+
+p {
+    color: white;
+}
+
+#contact {
+    letter-spacing: .8em;
+    font-family: tahoma;
 }
