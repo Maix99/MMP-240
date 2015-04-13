@@ -1,0 +1,31 @@
+//Styles the navigation
+
+
+// Simple Navigation
+// This is for the simple navigation that just makes the items into a horizontal list
+
+.main-nav{
+    float: right;
+}
+
+.navlist{
+    li{
+        display: inline;
+        list-style-type: none;
+        padding-right: 10px;
+        margin:10px;
+        float:right;
+    }
+
+    a{
+    	background-color:#468499;
+    	color:white;
+    	border: 2px black solid;
+    	border-radius:10;
+    	width:30px;
+    	padding:10px;
+    	margin:10px;
+    }
+
+
+}
